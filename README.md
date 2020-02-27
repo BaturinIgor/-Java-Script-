@@ -1,1 +1,1 @@
-# -Java-Script-
+Проект Java&Script: тестирование
